@@ -2,7 +2,7 @@
 const ourTeam = [
     {
         'nome': 'Wayne Barnett',
-        'ruolo':' Founder & CEO',
+        'ruolo':'Founder & CEO',
         'foto': 'wayne-barnett-founder-ceo.jpg'
 
     },
@@ -44,4 +44,29 @@ const ourTeam = [
 ];
 
 
-console.log(ourTeam)
+console.log(ourTeam[0].nome)
+console.log(ourTeam[0].ruolo)
+console.log(ourTeam[0].foto)
+
+console.log(ourTeam[1].nome)
+console.log(ourTeam[1].ruolo)
+console.log(ourTeam[1].foto)
+
+
+console.log(ourTeam[2].nome)
+console.log(ourTeam[2].ruolo)
+console.log(ourTeam[2].foto)
+
+console.log(ourTeam[3].nome)
+console.log(ourTeam[3].ruolo)
+console.log(ourTeam[3].foto)
+
+console.log(ourTeam[4].nome)
+console.log(ourTeam[4].ruolo)
+console.log(ourTeam[4].foto)
+
+console.log(ourTeam[5].nome)
+console.log(ourTeam[5].ruolo)
+console.log(ourTeam[5].foto)
+
+
